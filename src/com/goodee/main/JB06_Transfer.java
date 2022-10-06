@@ -15,6 +15,7 @@ public class JB06_Transfer {
 		
 		// transferFrom(소스, 시작지점, 복사할 사이즈)
 		fc2.transferFrom(fc1, 0, fc1.size());
+		test
 	}
 
 }
